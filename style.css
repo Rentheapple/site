@@ -1,0 +1,78 @@
+body {
+    background-color: #fb8241;
+  height: 100%;
+  width: 100%;
+  cursor: url(https://replit.com/@EarthSheep/ThatWeirdRens-Paintings#2023_08_26_0kl_Kleki.png), auto;
+}
+
+nav ul {
+  list-style-type: none;
+  font-family: 'IBM Plex Mono', monospace;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+a {
+  color:#ffffff;
+} 
+
+.logo{
+  width : 550px;
+  height : auto;
+}
+
+.header{
+  display:flex;
+  justify-content: space-between;
+  flex-direction: column-reverse;
+}
+
+.header nav{
+  background-color: #212121;
+  height: 100%;
+  width: 100%;
+}
+
+
+button{
+  height: 100px;
+  
+  width: 200px;
+  
+}
+
+.gamewindow{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: center;
+  align-items: center;
+  
+}
+
+.buttonwindow
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  
+}
+
+
+img {
+  border: solid 10px transparent
+
+}
+  img:hover {
+   border-color: #ffd500;
+  
+}
+.header-logo img {
+  border: none
+
+}
+
+
+
