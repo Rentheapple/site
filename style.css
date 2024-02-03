@@ -77,6 +77,6 @@ img {
 
 #canvas1{
   border : 5px solid brown;
-  
-  transform: translate(-50%, -50%);
+  width: 700px;
+  height: 420px;
 }
